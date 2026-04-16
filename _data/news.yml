@@ -33,3 +33,7 @@
 #   description: >-
 #     [_LatentFusion_](https://latentfusion.github.io), our paper on zero-shot pose estimation,
 #     has been accepted to CVPR 2020.
+
+- date: 2026.03
+  description: >-
+    [_LEGO_](https://jihwan-yoon-page.github.io/legopt/) has been accepted to ICRA 2026.

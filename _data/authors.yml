@@ -104,3 +104,37 @@
 #   last_name: Zhao
 #   website: https://xiaoming-zhao.com/
 
+jihwan:
+  first_name: Jihwan
+  last_name: Yoon
+  website: https://jihwan-yoon-page.github.io/
+  is_me: true
+taemoonjeong:
+  first_name: Taemoon
+  last_name: Jeong
+  website: https://steadfast-helicona-c82.notion.site/Taemoon-Jeong-69e977daa86b450cb8fa6676c1d287e0
+jeongeunpark:
+  first_name: Jeongeun
+  last_name: Park
+  website: https://jeongeun-park-page.github.io/
+chanwookim:
+  first_name: Chanwoo
+  last_name: Kim
+  website: https://chanwookim971024.github.io/
+jaewoonkwon:
+  first_name: Jaewoon
+  last_name: Kwon
+  website: https://www.linkedin.com/in/jaewoon-kwon-322193205
+yonghyeonlee:
+  first_name: Yonghyeon
+  last_name: Lee
+  website: https://www.gabe-yhlee.com/
+kyungjaelee:
+  first_name: Kyungjae
+  last_name: Lee
+  website: https://sites.google.com/view/railab/professor
+sungjoonchoi:
+  first_name: Sungjoon
+  last_name: Choi
+  website: https://sites.google.com/view/sungjoon-choi/personal
+
