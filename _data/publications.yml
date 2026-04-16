@@ -138,7 +138,7 @@
 - id: lego
   title: "LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design"
   venue: ICRA, 2026
-  description: "Learns a compact, geometry-preserving latent space of humanoid upper-body designs from existing mechanical designs and uses human motion data — via motion retargeting and Procrustes analysis — as the optimization objective, enabling automated discovery of new robot kinematics with minimal human design input."
+  description: "Learns a compact, geometry-preserving latent space of humanoid upper-body designs from existing mechanical designs and uses human motion data - via motion retargeting and Procrustes analysis - as the optimization objective, enabling automated discovery of new robot kinematics with minimal human design input."
   project_page: https://jihwan-yoon-page.github.io/legopt/
   arxiv: 2604.08636
   image: lego_teaser.gif
