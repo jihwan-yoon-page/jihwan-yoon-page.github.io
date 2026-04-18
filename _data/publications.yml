@@ -151,3 +151,61 @@
     - yonghyeonlee
     - kyungjaelee
     - sungjoonchoi
+
+- id: pioneer
+  title: "Learning Social Navigation from Positive and Negative Demonstrations and Rule-Based Specifications"
+  venue: ICRA, 2026
+  description: "Social navigation framework that learns a density-based reward from positive and negative demonstrations and augments it with rule-based objectives for obstacle avoidance and goal reaching. A sampling-based lookahead controller produces safe yet adaptive supervisory actions, which are distilled into a compact student policy suitable for real-time operation with uncertainty estimates."
+  project_page: https://chanwookim971024.github.io/PioneeR/
+  arxiv: 2510.12215
+  image: pioneer_teaser.gif
+  authors:
+    - chanwookim
+    - jihwan
+    - hyeonseongkim
+    - taemoonjeong
+    - changwooyoo
+    - seungbeenlee
+    - soohwanbyeon
+    - hoonchung
+    - matthewpan
+    - jeanoh
+    - kyungjaelee
+    - sungjoonchoi
+
+- id: vine
+  title: "Hierarchical Vision Language Action Model Using Success and Failure Demonstrations"
+  venue: CoRL 2025 Workshop on Safe and Robust Robot Learning
+  description: "Hierarchical vision-language-action model that learns from both success and failure demonstrations: a high-level System 2 performs feasibility-guided tree search over scene-graph subgoals using success/failure probabilities, while a low-level System 1 executes the selected actions - turning failure data into a structured signal for robust manipulation."
+  project_page: https://vine-vla.github.io/
+  arxiv: 2512.03913
+  image: vine_before.png
+  authors:
+    - jeongeunpark
+    - jihwan
+    - byeongwoojeon
+    - juhanpark
+    - jinwooshin
+    - namhooncho
+    - kyungjaelee
+    - sangdooyun
+    - sungjoonchoi
+
+- id: core
+  title: "CoRe: A Hybrid Approach of Contact-Aware Optimization and Learning for Humanoid Robot Motions"
+  venue: Humanoids, 2025
+  description: "An automated pipeline that converts text-generated human motions into physically executable humanoid motions: text-to-motion generation, robot-specific retargeting, optimization-based motion refinement, and a contact-aware RL phase - reducing foot sliding, unnatural floating, and excessive joint accelerations before RL training."
+  ieee: 11203055
+  image: core_image.png
+  authors:
+    - taemoonjeong
+    - yoonbyungchai
+    - solchoi
+    - jaewanbak
+    - chanwookim
+    - jihwan
+    - yisoolee
+    - jongwonlee
+    - kyungjaelee
+    - joohyungkim
+    - sungjoonchoi
